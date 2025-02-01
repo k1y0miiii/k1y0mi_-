@@ -1,4 +1,3 @@
-```markdown
 ## Disclaimer
 Some of my projects are intended for a Russian-speaking audience, so some projects and their documentation may be in Russian.
 
@@ -38,4 +37,4 @@ I am a university student passionate about programming in Python and exploring a
 ---
 
 I am always open to new contacts and interesting proposals. Thank you for visiting my profile!
-```
+
