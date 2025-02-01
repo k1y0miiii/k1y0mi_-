@@ -15,7 +15,6 @@ Some of my projects are intended for a Russian-speaking audience, so some projec
 ### 🛠️ Skills and Technologies
 
 - **Programming Languages:** Python
-- **Frameworks and Libraries:** PySimpleGUI, requests, cryptography
 - **Devices:** Flipper Zero and similar devices
 - **Interests:** Information security, process automation
 - **Neural Networks:** Working with various neural networks, including creating and executing queries, setting up models, and analyzing results
