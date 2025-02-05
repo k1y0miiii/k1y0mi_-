@@ -20,10 +20,6 @@ Some of my projects are intended for a Russian-speaking audience, so some projec
 - **Neural Networks:** Working with various neural networks, including creating and executing queries, setting up models, and analyzing results
 - **Development Tools:** Git, PyCharm, PostgreSQL
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1y0miiii&show_icons=true&theme=radical)
-
 ### 📫 Contacts
 - **Discord:** kapitoshka
 - **Telegram:** @k1y0miiii
